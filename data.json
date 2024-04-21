@@ -5,28 +5,28 @@
       "name": "Ravi Teja",
       "age": 20,
       "city":"Kovvur",
-      "mobile": 093845893
+      "mobile": 09385893
     },
     {
       "id": 2,
       "name": "Vivek",
       "age": 20,
       "city":"Devarapalli",
-      "mobile": 093845893
+      "mobile": 09384583
     },
     {
       "id": 3,
       "name": "Chinna",
       "age": 20,
       "city":"Rahahmundry",
-      "mobile": 093845893
+      "mobile": 09385893
     },
     {
       "id": 4,
       "name": "Cham maya",
       "age": 20,
       "city":"Malakapalli",
-      "mobile": 093845893
+      "mobile": 09345893
     }
   ]
 }
